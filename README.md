@@ -1,6 +1,6 @@
 # Keeper-App
 
-Google-Keep Clone made with React.
+Google-Keeper Clone made with React.
 
 ## How to install?
 
@@ -64,5 +64,5 @@ code .
 
 ## License 
 
-Distributed under the GNU GENERAL PUBLIC LICENSE. See [`LICENSE`](./License) for more information.
+Made under the GNU GENERAL PUBLIC LICENSE. See [`LICENSE`](./License) for more information.
 
